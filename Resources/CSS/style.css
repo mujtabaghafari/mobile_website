@@ -1,0 +1,38 @@
+* {
+    font-family: verdana;
+    background-color: black;
+    text-align: center;
+}
+.heading h1 {
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-size: 3.125em;
+    font-weight: normal;
+}
+.link-product {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.guide {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+.interest {
+    font-size: 21px;
+    color: gray;
+}
+.version {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+.copyright {
+    color: gray;
+    float: right;
+    font-size: 1.3em;
+}
